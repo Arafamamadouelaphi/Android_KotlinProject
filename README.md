@@ -23,7 +23,7 @@ Application d'album photos basé sur l'API Unsplash
 
 ### Architecture utilisées
 
-![Capture_d_écran_2022-02-14_à_14.11.09](/uploads/fa59538e8e5ba0d2dd4ec7ad93534e0f/Capture_d_écran_2023-02-14_à_14.11.09.png)
+<img src="https://codefirst.iut.uca.fr/git/mamadou_elaphi.arafa/Android/src/branch/master/imagevm/capture-android.png" alt=""/>
  
 #### API Access key 
 DqTWq4IuTHgzVZB8T60q33hoJOOK9ssGEbUl6Eeu6p4
@@ -33,6 +33,7 @@ DqTWq4IuTHgzVZB8T60q33hoJOOK9ssGEbUl6Eeu6p4
 
 #### Documentation officiel de l'API Unsplash https://unsplash.com/documentation
 Documentation officiel de l'API Unsplash https://unsplash.com/documentation
+
 
 
 
